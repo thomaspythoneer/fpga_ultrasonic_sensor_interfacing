@@ -97,4 +97,3 @@ Accuracy:       ±1 cm (verified)
 
 ***
 
-**Complete, synthesizable design ready for FPGA deployment. Testbench confirms 100% functional correctness.**
